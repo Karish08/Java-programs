@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class cintainsduplicate {
+public class containsduplicate {
     public static int[] getConcatenation(int[] nums) {
         int[] sr = new int[nums.length * 2];
         int k = 0;

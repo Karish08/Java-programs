@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class replagegreatestnoonrightside {
+public class replacegreatestnoonrightside {
     public static int[] replaceElements(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             int max = -1;
